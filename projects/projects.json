@@ -1,0 +1,82 @@
+[
+    {
+      "name": "Fitness Tracker",
+      "desc":"A Fitness tracker to help users document their journey by uploading pictures and logging daily activities.",
+      "image": "fitnesstracker",
+      "category": "aws",
+      "links": {
+              "view":"https://github.com/stars/shinjinisen/lists/aws-fitness-tracker-project",
+              "code": "https://github.com/stars/shinjinisen/lists/aws-fitness-tracker-project"
+      }
+    },
+    {
+      "name": "Cryptocurrency Prediction",
+      "desc": "Uses Deep Learning Neural Network techniques RNN & LSTM together, to analyse and predict future trends of cryptocurrencies.",
+      "image": "cryptocurrency",
+      "category": "ml",
+      "links": {
+        "view":"https://github.com/shinjinisen/cryptocurrency-prediction",
+        "code": "https://github.com/shinjinisen/cryptocurrency-prediction"
+      }
+    },
+    {
+      "name": "Driver Drowsiness detection",
+      "desc": "A real time drowsiness detector by displaying drowsiness score and triggering automated alarms.",
+      "image": "sleep",
+      "category": "ml",
+      "links": {
+        "view": "https://github.com/shinjinisen/drowsiness-detection",
+        "code": "https://github.com/shinjinisen/drowsiness-detection"
+      }
+    },
+    {
+      "name": "Deets",
+      "desc": "A MERN based 'to-do' list that is backed up a NoSQL DB using CRUD operations. ",
+      "image": "todo",
+      "category": "webdev",
+      "links": {
+        "view": "https://github.com/shinjinisen/To-Do-List-Advanced",
+        "code":"https://github.com/shinjinisen/To-Do-List-Advanced"
+      }
+    },
+    {
+      "name": "Weather Finder",
+      "desc": "A Real-time Weather Application that uses OAuth Authentcation and redirects them to weather information pages. ",
+      "image": "weather",
+      "category": "webdev",
+      "links": {
+        "view":  "https://github.com/shinjinisen/weather-finder",
+        "code": "https://github.com/shinjinisen/weather-finder"
+      }
+    },
+    {
+      "name": "Journal Entry",
+      "desc": "Allows user to compose their daily journals and keep a track of the journals written.",
+      "image": "journal",
+      "category": "webdev",
+      "links": {
+        "view":"https://github.com/shinjinisen/journal-website",
+        "code": "https://github.com/shinjinisen/journal-website"
+      }
+    },
+    {
+      "name": "Blog Site",
+      "desc": "A Blog website built on Restful APIs that allows users to create,edit, post and delete blog posts.",
+      "image": "blog",
+      "category": "webdev",
+      "links": {
+        "view":"https://github.com/shinjinisen/blog-site",
+        "code": "https://github.com/shinjinisen/blog-site"
+      }
+    },
+    {
+      "name": "Record Linkage Prediction",
+      "desc": "Indicates the % of vulnerability between two datasets by identifying the metrics of record linkage, and helps balancing privacy and utility.",
+      "image": "rec",
+      "category": "ml",
+      "links": {
+        "view":"https://github.com/shinjinisen/data-privacy-pynb",
+        "code": "https://github.com/shinjinisen/data-privacy-pynb"
+      }
+    }
+  ]
